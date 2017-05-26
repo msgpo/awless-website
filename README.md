@@ -1,3 +1,3 @@
 # awless-website
 
-Repository of [http://awless.io](http://awless.io) website.
+Repository of [https://doc.awless.io](https://doc.awless.io) website.

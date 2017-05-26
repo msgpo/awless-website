@@ -28,11 +28,11 @@ Writing conventions:
 
 ## Filtering resources by properties & tags
 
-## Show resources details & relations
+# Show resources details & relations
 
-## Avoid referencing cryptic IDs
+# Avoid referencing cryptic IDs
 
-## Use awless offline
+# Use awless offline
 
 # Smart SSH
 
